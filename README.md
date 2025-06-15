@@ -9,9 +9,10 @@
 - Basit ve genişletilebilir Python altyapısı
 - (İleride) NLP ile ruh hali tahmini, Flutter arayüz
 
-## Kullanım
+## Kullanım-
 
 ```bash
+
 # API'yi başlat
 python app.py
 
